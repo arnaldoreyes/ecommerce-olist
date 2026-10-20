@@ -1,0 +1,12 @@
+# Carpeta personal de trabajo: no se publica
+ARNALDO/
+
+# Sistema operativo
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Temporales de Office y del editor
+~$*
+*.tmp
+*.log
